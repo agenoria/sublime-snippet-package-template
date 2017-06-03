@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+print("What hath God wrought!?")
+]]></content>
+    <tabTrigger>whgw</tabTrigger>
+    <scope>source.python</scope>
+    <description>What hath God wrought!?</description>
+</snippet>

@@ -1,0 +1,9 @@
+{
+    "github_username": "fhightower",
+    "license_holder": "Floyd Hightower",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
+    "project_short_description": "A short description of your snippets.",
+    "snippet_package_name": "Sublime Text Awesome Snippets",
+    "github_repository": "{{cookiecutter.snippet_package_name.lower().replace(' ', '-')}}",
+    "version": "0.1.0"
+}
