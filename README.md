@@ -24,5 +24,5 @@ Once cookiecutter is installed, simply run the following command which will prom
 ```shell
 # This will ask you to give some input values and will then create a basic
 # package for you based on those values in the current directory.
-$ cookiecutter https://github.com/agenoria/sublime-snippet-template
+$ cookiecutter https://github.com/agenoria/sublime-snippet-package-template.git
 ```

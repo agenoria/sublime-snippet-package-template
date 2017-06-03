@@ -37,4 +37,4 @@ TODO: add some usage instructions
 
 ## Credits
 
-The framework for this package was created from the Sublime Text Snippet Template available here: [https://github.com/agenoria/sublime-snippet-template](https://github.com/agenoria/sublime-snippet-template).
+The framework for this package was created from the Sublime Text Snippet Template available here: [https://github.com/agenoria/sublime-snippet-package-template](https://github.com/agenoria/sublime-snippet-package-template).
