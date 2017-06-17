@@ -26,3 +26,5 @@ Once cookiecutter is installed, simply run the following command which will prom
 # package for you based on those values in the current directory.
 $ cookiecutter https://github.com/agenoria/sublime-snippet-package-template.git
 ```
+
+Once you have created a snippet repository using this template, it's easy to update the package's version using [bumpversion](TODO: ADD LINK HERE). Running `bumpversion patch` will automatically increment the patch version number in the package's readme file. `bumpversion minor` will increment the minor version number in the same place and `bumpversion major` will do the same with the major version number.
